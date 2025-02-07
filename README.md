@@ -3,6 +3,6 @@
 
 ### Caso queira visualizar:
 
-* O site pode ser visualizado através desse [link]([https://landingpagehtml-leovianaf.netlify.app/](https://landing-page-gabrielbelo.netlify.app/)).
+* O site pode ser visualizado através desse [link](https://landing-page-gabrielbelo.netlify.app/).
 
 * ![Preview da Landing Page](assets/img/tela-inicial.png)
