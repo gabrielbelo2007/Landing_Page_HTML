@@ -17,7 +17,9 @@
 }
 
 .section {
+    min-width: auto;
     min-height: 100vh;
+    max-height: auto;
 }
 
 .menu-spacing {
