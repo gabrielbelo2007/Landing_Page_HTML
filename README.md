@@ -1,5 +1,5 @@
 # **Landing Page - HTML**
- Landing Page criada para treinamento em práticas de HTML e CSS.
+ Landing Page criada para prática em HTML e CSS.
 
 ### Caso queira visualizar:
 
